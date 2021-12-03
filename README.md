@@ -1,2 +1,2 @@
-# poker-odds-checker
-Poker odds checker using C++
+# poker-odds
+Poker odds using C++
